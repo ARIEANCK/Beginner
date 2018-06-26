@@ -6,7 +6,7 @@ public class Pos_neg {
 		try {
 			N = in.nextInt();
 		} catch (Exception e) {
-			System.out.println("Negative");
+			System.out.println("Invalid Input");
 		}
 	    if(N>0)
 		System.out.println("Postive");
