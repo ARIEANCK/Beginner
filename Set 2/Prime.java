@@ -1,9 +1,5 @@
-package set2;
-
 import java.util.Scanner;
-
 public class Prime {
-
 	public static void main(String[] args) {
 		Scanner in=new Scanner(System.in);
 		int n=in.nextInt(),f=0;
@@ -14,5 +10,4 @@ public class Prime {
 		if(f==0) System.out.println("Yes");
 		else System.out.println("No");
 	}
-
 }
