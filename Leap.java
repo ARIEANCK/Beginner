@@ -7,9 +7,9 @@ public class Leap {
 		{
 			N = in.nextInt();
 			if(N%4==0 && N%400!=0)
-		        System.out.println("Leap Year");
+		        System.out.println("Yes");
 		    else
-		        System.out.println("Not Leap Year");
+		        System.out.println("No");
 		} 
 		catch (Exception e) 
 		{
