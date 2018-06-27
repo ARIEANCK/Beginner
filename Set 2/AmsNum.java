@@ -1,7 +1,4 @@
-package set2;
-
 import java.util.Scanner;
-
 public class AmsNum {
 	public static void main(String[] args) {
 		Scanner in=new Scanner(System.in);
@@ -19,6 +16,5 @@ public class AmsNum {
 			if(i==ams || (i<10 && i>0))
 			System.out.println(ams);
 		}
-		
 	}
 }
