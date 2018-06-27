@@ -1,9 +1,5 @@
-package set2;
-
 import java.util.Scanner;
-
 public class PrimeNumbers {
-
 	public static void main(String[] args) {
 		Scanner in=new Scanner(System.in);
 		int n=in.nextInt(),q=in.nextInt(),f=0;
