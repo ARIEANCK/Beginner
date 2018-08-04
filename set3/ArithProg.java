@@ -1,4 +1,3 @@
-package set3;
 import java.util.Scanner;
 public class ArithProg {
 	public static void main(String[] args) {
