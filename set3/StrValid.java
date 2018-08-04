@@ -1,5 +1,3 @@
-package set3;
-
 import java.util.Scanner;
 public class StrValid {
 	public static void main(String[] args) {
